@@ -43,13 +43,13 @@ Github provides most popular Repository hosting services. The phase of Open Sour
 
 
 <p>
-    <img src="https://github.com/ISTESRMNCR/INTRODUCTION-ISTE/blob/master/assets/codejam.png" height="200" width="200"  />
-    <img src="https://github.com/ISTESRMNCR/INTRODUCTION-ISTE/blob/master/assets/code-decode.png" height="200" width="200"  />
-    <img src="https://github.com/ISTESRMNCR/INTRODUCTION-ISTE/blob/master/assets/quiz.png" height="200" width="200"  />
-    <img src="https://github.com/ISTESRMNCR/INTRODUCTION-ISTE/blob/master/assets/technic.png" height="200" width="200"  />
-    <img src="https://github.com/ISTESRMNCR/INTRODUCTION-ISTE/blob/master/assets/Summer-Events-2020.png" height="200" width="200"  />
-    <img src="https://github.com/ISTESRMNCR/INTRODUCTION-ISTE/blob/master/assets/pubg.png" height="200" width="200"  />
-    <img src="https://github.com/ISTESRMNCR/INTRODUCTION-ISTE/blob/master/assets/click.png" height="200" width="200"  />
+    <img src="https://github.com/ISTESRMNCR/INTRODUCTION/blob/master/assets/codejam.png" height="200" width="200"  />
+    <img src="https://github.com/ISTESRMNCR/INTRODUCTION/blob/master/assets/code-decode.png" height="200" width="200"  />
+    <img src="https://github.com/ISTESRMNCR/INTRODUCTION/blob/master/assets/quiz.png" height="200" width="200"  />
+    <img src="https://github.com/ISTESRMNCR/INTRODUCTION/blob/master/assets/technic.png" height="200" width="200"  />
+    <img src="https://github.com/ISTESRMNCR/INTRODUCTION/blob/master/assets/Summer-Events-2020.png" height="200" width="200"  />
+    <img src="https://github.com/ISTESRMNCR/INTRODUCTION/blob/master/assets/pubg.png" height="200" width="200"  />
+    <img src="https://github.com/ISTESRMNCR/INTRODUCTION/blob/master/assets/click.png" height="200" width="200"  />
 </p>
 
 
