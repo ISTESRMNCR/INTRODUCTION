@@ -17,7 +17,7 @@ While colleges only focusing upon theoretical knowledge and not on what the indu
 
 # Our Skills 💪 
 
-![Our-Skills](https://github.com/ISTESRMNCR/INTRODUCTION-ISTE/blob/master/assets/skills.png)
+![Our-Skills](https://github.com/ISTESRMNCR/INTRODUCTION/blob/master/assets/skills.png)
 
 # **I.S.T.E** on GitHub 🐙 
 
